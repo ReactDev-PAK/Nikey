@@ -1,11 +1,15 @@
-import Footer from "./sections/Footer";
-import Hero from "./sections/Hero";
-import Popular from "./sections/Popular";
-import Services from "./sections/Services";
-import SpecialOffer from "./sections/SpecialOffer";
-import Subscribe from "./sections/Subscribe";
-import SuperQuality from "./sections/SuperQuality";
+import {   
+   Footer,
+    Hero,
+    Popular,
+    Services,
+    SpecialOffer,
+    Subscribe,
+    SuperQuality,
+    CustomerReviews,
+    Nav } from "./sections";
 
+    
 const App = () => {
   <main className="relative">
     <section className="x1:padding-1 wide:padding-r padding-b">
