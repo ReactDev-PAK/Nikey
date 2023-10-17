@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Project Assets Link
 
 https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view
+
+### Install Eslintrc
+
+npm i eslint-plugin-react-refresh

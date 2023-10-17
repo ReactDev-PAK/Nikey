@@ -1,9 +1,18 @@
-function App() {
-  return (
-    <h1 className="text-3xl bg-blue-400">
-      Hello World
-    </h1>
-  );
+const App = () => {
+  <main className="relative">
+    <section className="x1:padding-1 wide:padding-r padding-b">
+      
+    </section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+    <section className="padding"></section>
+
+  </main>
+
 }
 
 export default App;
